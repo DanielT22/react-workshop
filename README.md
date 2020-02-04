@@ -1,6 +1,6 @@
 # React Hooked
 
-Writing modern front end web applications in React
+Writing modern front end web applications in React.
 
 # About
 
